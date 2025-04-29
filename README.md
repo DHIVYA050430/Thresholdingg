@@ -181,4 +181,4 @@ plt.show()
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
-](https://github.com/DHIVYA050430/Edge-Linking-using-Hough-Transformm.git)
+
